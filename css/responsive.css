@@ -1,0 +1,45 @@
+
+
+ 
+ /* ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 520px*/
+
+
+@media (min-width: 320px) and (max-width: 560px) {
+  
+  /* CSS */
+  .Header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+  .logo1{
+  	    width: 75%;
+  }
+  dl, ol, ul {
+  	margin-bottom: 0!important;
+  	padding-left: 0!important;
+  }
+  .menu ul li{
+  	margin-left: 6px;
+    font-size: 14px;
+  }
+  .inner-container {
+  	padding-top: 30px;
+    padding-bottom: 0px;
+  }
+  .comment{
+  	margin-top: 20px;
+  }
+  .p{
+  	margin-bottom: 0!important;
+  }
+  .photo-blog2{
+  	    margin-top: 50px
+  }
+  .newsletter{
+  	    margin-top: 30px;
+  }
+  .load-button {
+    margin-top: 50px!important;
+    margin-bottom: 30px!important;
+}
